@@ -6,7 +6,7 @@
 - 🌱 Aprofundando conhecimentos em Rust.
 
 [![card](https://github-readme-stats.vercel.app/api?username=JuanMarceloT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMarceloT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)]
+![card](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMarceloT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Onde me encontrar
 
