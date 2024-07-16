@@ -10,5 +10,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-marcelo-trabaina-926b76216/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/juan-marcelo-trabaina-926b76216/))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juantrabaina@gmail.com)](mailto:juantrabaina@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Juan_Marcelo_Trabaina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-marcelo-trabaina-926b76216/)]([https://www.linkedin.com/in/juan-marcelo-trabaina-926b76216/](https://www.linkedin.com/in/juan-marcelo-trabaina-926b76216/))
+[![Gmail Badge](https://img.shields.io/badge/juantrabaina@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juantrabaina@gmail.com)](mailto:juantrabaina@gmail.com)
