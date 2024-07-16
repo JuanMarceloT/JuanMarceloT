@@ -1,16 +1,14 @@
-## Hi there 👋
+## Sobre mim
 
-<!--
-**JuanMarceloT/JuanMarceloT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Buscando solucionar problemas com sequências de 0s e 1s.
+- 🎓 Estudando Engenharia da Computação na UFRGS.
+- 🔭 Atualmente estou desenvolvendo o <a href="https://github.com/JuanMarceloT/Asset-Track">Asset Track</a>
+- 🌱 Aprofundando conhecimentos em Rust.
 
-Here are some ideas to get you started:
+[![card](https://github-readme-stats.vercel.app/api?username=JuanMarceloT&theme=Dark)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=JuanMarceloT&theme=Dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-marcelo-trabaina-926b76216/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/juan-marcelo-trabaina-926b76216/))
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juantrabaina@gmail.com)](mailto:juantrabaina@gmail.com)
