@@ -5,8 +5,8 @@
 - 🔭 Atualmente estou desenvolvendo o <a href="https://github.com/JuanMarceloT/Asset-Track">Asset Track</a>
 - 🌱 Aprofundando conhecimentos em Rust.
 
-[![card](https://github-readme-stats.vercel.app/api?username=JuanMarceloT&theme=Dark)](https://github.com/anuraghazra/github-readme-stats)
-[![card](https://github-readme-stats.vercel.app/api?username=JuanMarceloT&theme=Dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=JuanMarceloT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=JuanMarceloT&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
